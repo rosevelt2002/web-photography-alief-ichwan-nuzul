@@ -117,36 +117,36 @@ nav a:hover {
 }
 @media (max-width: 768px) {
     .profile {
-        font-size: 20px; /* Ukuran font lebih kecil untuk layar kecil */
+        font-size: 20px;
     }
 
     .biodata {
-        flex-direction: column; /* Susun elemen secara vertikal */
-        align-items: center; /* Pusatkan elemen */
-        text-align: center; /* Teks di tengah */
+        flex-direction: column; 
+        align-items: center; 
+        text-align: center; 
     }
 
     .biodata-text {
-        max-width: 100%; /* Isi seluruh lebar layar */
-        padding-right: 0; /* Hilangkan jarak kanan */
+        max-width: 100%; 
+        padding-right: 0; 
     }
 
     .biodata img {
-        width: 80%; /* Gambar lebih kecil */
-        margin-top: 10px; /* Tambahkan jarak di atas gambar */
+        width: 80%; 
+        margin-top: 10px; 
     }
 
     .image-container {
-        flex-direction: column; /* Susun gambar vertikal */
-        gap: 20px; /* Jarak antar gambar */
+        flex-direction: column; 
+        gap: 20px; 
     }
 
     .image-container img {
-        width: 80%; /* Gambar menyesuaikan layar */
+        width: 80%; 
     }
 
     nav ul {
-        flex-direction: column; /* Navigasi menjadi vertikal */
-        gap: 10px; /* Jarak antar menu navigasi */
+        flex-direction: column; 
+        gap: 10px; 
     }
 }
