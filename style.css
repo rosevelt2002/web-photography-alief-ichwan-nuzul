@@ -83,15 +83,6 @@ body {
     background-color: #0062ff;
     box-shadow: 12px 0px 8px 1px #0062ff;
 }
-@keyframes loncatloncat{
-    0%, 100% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(20px);
-    }
-}
-
 .profile h4 {
     font-family: "Comic Neue", cursive;
     font-display: center;
